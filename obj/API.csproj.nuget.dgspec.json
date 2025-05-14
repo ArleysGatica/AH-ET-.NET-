@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/API/API.csproj",
+        "packagesPath": "/Users/arleysgatica/.nuget/packages/",
+        "outputPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arleysgatica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Application/Application.csproj": {
+                "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Application/Application.csproj"
+              },
+              "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj": {
+                "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj"
+              },
+              "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Application/Application.csproj",
+        "packagesPath": "/Users/arleysgatica/.nuget/packages/",
+        "outputPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arleysgatica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj": {
+                "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj",
+        "packagesPath": "/Users/arleysgatica/.nuget/packages/",
+        "outputPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arleysgatica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/arleysgatica/.nuget/packages/",
+        "outputPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arleysgatica/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj": {
+                "projectPath": "/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
