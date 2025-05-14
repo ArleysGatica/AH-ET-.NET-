@@ -1,0 +1,15 @@
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
