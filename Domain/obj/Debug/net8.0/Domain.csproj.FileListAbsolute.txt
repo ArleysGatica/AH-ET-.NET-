@@ -1,0 +1,11 @@
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/bin/Debug/net8.0/Domain.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/Domain.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/arleysgatica/Downloads/HexagonalArchitectureDemo/Domain/obj/Debug/net8.0/ref/Domain.dll
